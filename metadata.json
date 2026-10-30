@@ -1,0 +1,6 @@
+{
+  "name": "Nét Nghề Việt – Số hóa nghề thủ công truyền thống",
+  "description": "Nền tảng số hóa, lưu trữ và giới thiệu quy trình nghề thủ công truyền thống Việt Nam - Tiêu điểm: Nghề làm tranh dân gian Đông Hồ. Dự án xã hội phi lợi nhuận (IMTA TECH × FPT Polytechnic).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
